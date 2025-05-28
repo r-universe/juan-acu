@@ -5,3 +5,9 @@
 [submodule "qvirus"]
 	path = qvirus
 	url = https://github.com/juan-acu/qvirus
+[submodule "viraldomain"]
+	path = viraldomain
+	url = https://github.com/juan-acu/viraldomain
+[submodule "viralmodels"]
+	path = viralmodels
+	url = https://github.com/juan-acu/viralmodels
